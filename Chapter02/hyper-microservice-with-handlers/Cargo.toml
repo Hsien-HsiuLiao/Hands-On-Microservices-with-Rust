@@ -6,5 +6,5 @@ edition = "2018"
 
 [dependencies]
 hyper = { version = "1.7.0", features = ["full"] }
-hyper-util = { version = "0.1", features = ["full"] }
+vercel_runtime = "0.1"
 tokio = { version = "1.0", features = ["full"] }
